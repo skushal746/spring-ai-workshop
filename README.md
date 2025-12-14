@@ -632,8 +632,8 @@ curl "http://localhost:8080/weather?city=Atlanta"
 
 ## 🤝 Connect & Learn More
 
-- **Website**: [skushal746.dev](https://www.skushal746.dev)
-- **Twitter**: [@therealskushal746](https://twitter.com/therealskushal746)  
+- **Website**: [skushal746.dev](https://skushal746.github.io/)
+- **Twitter**: [@therealskushal746](https://twitter.com/skushal746)  
 - **GitHub**: [skushal746](https://github.com/skushal746)
 - **LinkedIn**: [skushal746](https://www.linkedin.com/in/skushal746)
 
